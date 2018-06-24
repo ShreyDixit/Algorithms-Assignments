@@ -1,5 +1,3 @@
-package Week3;
-
 import java.util.ArrayList;
 import edu.princeton.cs.algs4.StdDraw;
 import edu.princeton.cs.algs4.StdIn;
