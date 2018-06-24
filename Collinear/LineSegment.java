@@ -9,8 +9,6 @@
  *  DO NOT MODIFY THIS CODE.
  *
  *************************************************************************/
-package Week3;
-
 public class LineSegment {
 	private final Point p; // one endpoint of this line segment
 	private final Point q; // the other endpoint of this line segment
